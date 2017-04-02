@@ -1,0 +1,10 @@
+F:\Projects\KeywordsListener\KeywordsListener\bin\Release\KeywordsListener.exe.config
+F:\Projects\KeywordsListener\KeywordsListener\bin\Release\KeywordsListener.exe
+F:\Projects\KeywordsListener\KeywordsListener\bin\Release\KeywordsListener.pdb
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.csprojResolveAssemblyReference.cache
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.FrmMain.resources
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.FrmWarning.resources
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.Properties.Resources.resources
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.csproj.GenerateResource.Cache
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.exe
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\KeywordsListener.pdb

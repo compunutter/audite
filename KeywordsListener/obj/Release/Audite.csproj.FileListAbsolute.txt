@@ -1,0 +1,23 @@
+F:\Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.exe.config
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.csprojResolveAssemblyReference.cache
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.Properties.Resources.resources
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.csproj.GenerateResource.Cache
+F:\Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.exe
+F:\Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.pdb
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.FrmMain.resources
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.FrmWarning.resources
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.exe
+F:\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.pdb
+C:\Users\George\OneDrive\Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.exe.config
+C:\Users\George\OneDrive\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.exe
+C:\Users\George\OneDrive\Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.pdb
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.exe.config
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.exe
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\bin\Release\Audite.pdb
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.csprojResolveAssemblyReference.cache
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.FrmMain.resources
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.FrmWarning.resources
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.Properties.Resources.resources
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.csproj.GenerateResource.Cache
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.exe
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Release\Audite.pdb

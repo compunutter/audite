@@ -1,0 +1,9 @@
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\bin\Debug\Audite.exe.config
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\bin\Debug\Audite.exe
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\bin\Debug\Audite.pdb
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Debug\Audite.FrmMain.resources
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Debug\Audite.FrmWarning.resources
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Debug\Audite.Properties.Resources.resources
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Debug\Audite.csproj.GenerateResource.Cache
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Debug\Audite.exe
+D:\Dropbox\Project Archive\Windows Projects\KeywordsListener\KeywordsListener\obj\Debug\Audite.pdb
