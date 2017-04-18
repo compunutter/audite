@@ -8,4 +8,4 @@ Audite is a Windows Desktop application, it has an empty hidden main form and ju
 
 ## Screenshot:
 
-![](screenshots/warning.jpg)
+![](https://raw.githubusercontent.com/compunutter/audite/master/Screenshots/warning.jpg)
